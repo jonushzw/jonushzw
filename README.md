@@ -2,7 +2,7 @@
 
 <p align="center">
   🎓 <strong>Year 2 Computer Science (Hons) @ NUS College</strong>  
-  💻 <strong>AI &amp; Full-Stack Developer</strong>  
+  💻 <strong>Yapper &amp; Full-Stack Developer</strong>  
 </p>
 
 ---
