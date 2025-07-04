@@ -34,8 +34,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jonushzw&show_icons=true&theme=radical" alt="Jonus’s GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonushzw&layout=compact&theme=radical" alt="Top languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jonushzw&show_icons=true&theme=material-palenight" alt="Jonus’s GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonushzw&layout=compact&theme=material-palenight" alt="Top languages" height="160"/>
 </p>
 
 ---
