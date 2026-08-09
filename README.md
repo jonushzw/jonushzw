@@ -1,14 +1,14 @@
 <h1 align="center">👋 Hello, I’m Jonus!</h1>
 
 <p align="center">
-  🎓 <strong>Year 2 Computer Science (Hons) @ NUS College</strong>  
+  🎓 <strong>Final Year Computer Science (Hons) @ NUS College</strong>  
   💻 <strong>Yapper &amp; Full-Stack Developer</strong>  
 </p>
 
 ---
 
 ## 🏆 About Me
-- 🔭 I’m working on Software Development at #TeamCPF (Intern, Jun 2025–)  
+- 🔭 Previously worked on Software Development at #TeamCPF and #GovTechIntern (Intern, Jun 2025–)  
 - 🌱 Currently learning Go Lang, Hugging Face Transformers, Kubernetes  
 - 💬 Ask me about: React, Next.js, TypeScript, Prisma, Supabase, REST 
 - ⚡ Fun fact: I’m obsessed with K-POP
