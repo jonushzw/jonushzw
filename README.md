@@ -1,11 +1,18 @@
 <h1 align="center">👋 Hello, I’m Jonus!</h1>
 
 <p align="center">
-  🎓 <strong>Final Year Computer Science (Honours) @ NUS College</strong>  
+  🎓 <strong>Final Year Computer Science (Honours) @ NUS</strong>  
   💻 <strong>Yapper &amp; Full-Stack Developer</strong>  
 </p>
 
 ---
+
+## 🌐 Check Out My Personal Website
+<p align="center">
+  <a href="https://jonushzw.com">
+    <strong>🌐 Visit My Personal Website</strong>
+  </a>
+</p>
 
 ## 🏆 About Me
 - Currently an AI Engineer Intern @ Shopee
