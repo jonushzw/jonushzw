@@ -10,7 +10,7 @@
 ## 🌐 Check Out My Personal Website
 <p align="center">
   <a href="https://jonushzw.com">
-    <strong>🌐 Visit My Personal Website</strong>
+    <strong>🌐 Portfolio</strong>
   </a>
 </p>
 
